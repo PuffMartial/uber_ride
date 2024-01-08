@@ -1,4 +1,4 @@
-cost = 80
+cost = float(input("Enter the costof an uber rider:"))
 driver_commission = 70/100
 
 
